@@ -7,5 +7,5 @@
                  start-page="home.md">
 
     <toc-element topic="home.md"/>
-    <toc-element topic="Programação-Orientada-a-Objetivos.md"/>
+    <toc-element topic="Programação-Orientada-a-Objetos.md"/>
 </instance-profile>
