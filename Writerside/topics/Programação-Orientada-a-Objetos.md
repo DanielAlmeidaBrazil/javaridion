@@ -236,7 +236,6 @@ representar uma ou mais classes e os relacionamentos entre si.
 Diagrama da classe Alimento
 
 ```mermaid
-
 classDiagram
     class Alimento
     Alimento : +String nome
@@ -341,7 +340,7 @@ Conceito de Herança
 
 : A Herança, sim, é isso mesmo que você está pensando, herdar algo de um familiar, que seriam no caso caracterísitcas dos pais.
 Por exemplo, se você tem olhos castanhos, provavelmente seus pais também tem olhos castanhos, e você herdou essa característica deles.
-O seu tipo sanguínio também é uma característica herdada de seus pais ou de seus avós, e assim por diante. Em questão de comportamentos também 
+O seu tipo sanguíneo também é uma característica herdada de seus pais ou de seus avós, e assim por diante. Em questão de comportamentos também 
 podemos herdar, se você é uma pessoa calma, provavelmente seus pais também são calmos, e você herdou essa característica deles, bem, 
 isso não se aplica muito a mim, mas vamos continuar. Na programação orientada a objetos a herança é a capacidade de uma classe 
 herdar características de outra classe, ou seja, uma classe filha herda características de uma classe pai. 
